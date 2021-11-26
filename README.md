@@ -10,7 +10,7 @@ Because I need some structure! .This will help me take steps to build my portfol
 
           - Introduction of JAVA
           - Java data types
-          - Java Variables
+          - [Java Variables](https://www.flowerbrackets.com/variables-in-java/)
          
 
 **Day 2 :**  
@@ -22,7 +22,7 @@ Because I need some structure! .This will help me take steps to build my portfol
 
 **Day 3 :**  
 
-          - Constructors
+          - [Constructors](https://www.flowerbrackets.com/constructor-in-java/)
           - static
           - Packages
           - Loops in Java
